@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="320"
+    android:viewportHeight="320">
+
+    <!-- D Letter -->
+    <path
+        android:fillColor="#00A651"
+        android:pathData="M 35,90 H 75 C 105,90 120,105 120,132.5 C 120,160 105,175 75,175 H 35 V 90 Z M 57,110 V 155 H 73 C 87,155 95,145 95,132.5 C 95,120 87,110 73,110 H 57 Z" />
+
+    <!-- I Letter -->
+    <path
+        android:fillColor="#00A651"
+        android:pathData="M 132,90 H 162 V 175 H 132 V 90 Z" />
+
+    <!-- U Letter -->
+    <path
+        android:fillColor="#00A651"
+        android:pathData="M 175,90 H 203 V 140 C 203,157 213,163 225,163 C 237,163 247,157 247,140 V 90 H 275 V 140 C 275,170 253,177 225,177 C 197,177 175,170 175,140 V 90 Z" />
+
+    <!-- Red Person Icon in U -->
+    <path
+        android:fillColor="#ED1C24"
+        android:pathData="M 288,110 A 9,9 0 1,1 270,110 A 9,9 0 1,1 288,110 Z M 276,175 C 276,135 282,125 288,125 C 294,125 300,135 300,175 H 294 C 294,140 291,133 288,133 C 285,133 282,140 282,175 H 276 Z" />
+
+</vector>

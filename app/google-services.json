@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171473265304",
+    "project_id": "diu-lost-and-found-a93b9",
+    "storage_bucket": "diu-lost-and-found-a93b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171473265304:android:69617c3c7419e93a5ce6ed",
+        "android_client_info": {
+          "package_name": "bd.edu.diu.lostandfound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmwTc0geQOXNoF-tACrZ8neK33pKZDnWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

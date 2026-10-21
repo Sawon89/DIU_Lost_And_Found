@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- DIU Branding Colors -->
+    <color name="diu_green_primary">#006A4E</color>
+    <color name="diu_green_dark">#004D38</color>
+    <color name="diu_green_light">#E6F2ED</color>
+    <color name="diu_green_banner">#005A42</color>
+
+    <!-- Badges & UI Elements -->
+    <color name="type_lost_bg">#FEE2E2</color>
+    <color name="type_lost_text">#DC2626</color>
+    <color name="type_found_bg">#DCFCE7</color>
+    <color name="type_found_text">#16A34A</color>
+    <color name="official_badge_bg">#DCFCE7</color>
+    <color name="official_badge_text">#15803D</color>
+
+    <!-- Neutral Colors -->
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#4B5563</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="bg_light">#F8FAFC</color>
+    <color name="card_border">#E2E8F0</color>
+</resources>

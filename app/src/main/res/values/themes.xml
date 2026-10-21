@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DIULostFound" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/diu_green_primary</item>
+        <item name="colorPrimaryVariant">@color/diu_green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/diu_green_primary</item>
+    </style>
+
+    <style name="Theme.DIULostFound" parent="Base.Theme.DIULostFound" />
+</resources>
